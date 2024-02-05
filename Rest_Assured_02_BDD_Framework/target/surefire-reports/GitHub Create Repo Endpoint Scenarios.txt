@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: GitHub Create Repo Endpoint Scenarios
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 2.972 s <<< FAILURE! - in GitHub Create Repo Endpoint Scenarios
+Create organization repository #1(GitHub Create Repo Endpoint Scenarios)  Time elapsed: 2.202 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <201> but was <422>.
+
+
+Create organization repository #2(GitHub Create Repo Endpoint Scenarios)  Time elapsed: 0.77 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <201> but was <422>.
+
+
